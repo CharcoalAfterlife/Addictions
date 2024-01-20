@@ -1,0 +1,24 @@
+The first way of addiction is quantity.
+We can simulate this with drugs and apples.
+Let's try to do that with 2 variables.
+Q is equal to the quantity.
+D is equal to the death rate.
+So, we will provide the stats for the apple and the drug. 
+
+Apple States:
+D = 0%
+Q = 2
+
+Drug Stats:
+D = 85%
+Q = 32
+
+
+We can make a grid for it's outcomes.
+If a food has a low Q and low D, it is eating that food rarely.
+If a food has a low Q and a high D, it will lead to a healthy life due to having some/none of that food. But, having some of that food might affect the body.
+If a food has a high Q and a low D, the person will have a healthy life.
+If the food has a high Q and a high D, the person will die in a short time.
+
+
+
