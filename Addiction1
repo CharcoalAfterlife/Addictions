@@ -1,0 +1,11 @@
+The first way of having addictions is being so used to it.
+We can simulate this with drugs and apple.
+We can use variables to run the simulation.
+First Variable is Q. Q is equal to the the quantity of having it.
+The second is T. T= Time passed.
+The Third is D. D= Death Rate. That is how many health he will lose per year.
+The Last is L. L is the limit for health to stay.
+So:
+
+If Q<L:
+H= H-D*T.
